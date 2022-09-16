@@ -1,0 +1,21 @@
+*{
+
+}
+
+.envolve{
+    width: 960px;
+    margin: auto;
+}
+
+h1, h6, h2{
+    text-align: center;
+}
+
+section{
+    padding: 30px;
+}
+
+footer{
+    text-align: center;
+}
+
